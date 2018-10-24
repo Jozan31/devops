@@ -1,5 +1,5 @@
-projectKey=nicolas_lejeune:devops
+projectKey=nicolas_lejeune:devops2
 serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/nicolas_lejeune:devops
-ceTaskId=AWak16Ok4s-oMD9vgN9l
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWak16Ok4s-oMD9vgN9l
+dashboardUrl=http://localhost:9000/dashboard/index/nicolas_lejeune:devops2
+ceTaskId=AWamciox4s-oMD9vgN9p
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWamciox4s-oMD9vgN9p
